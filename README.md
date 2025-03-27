@@ -1,5 +1,5 @@
 ### EXPT   NO 1	:		SIMULATION OF AMPLITUDE SHIFT KEYING
-### DATE		: 27/03/2025
+### DATE		: 
 
 AIM: 
 To implement ASK using MATLAB.
